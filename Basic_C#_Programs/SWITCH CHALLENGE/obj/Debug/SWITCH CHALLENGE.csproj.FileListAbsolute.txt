@@ -1,0 +1,7 @@
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\SWITCH CHALLENGE\obj\Debug\SWITCH CHALLENGE.csproj.AssemblyReference.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\SWITCH CHALLENGE\obj\Debug\SWITCH CHALLENGE.csproj.CoreCompileInputs.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\SWITCH CHALLENGE\bin\Debug\SWITCH CHALLENGE.exe.config
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\SWITCH CHALLENGE\bin\Debug\SWITCH CHALLENGE.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\SWITCH CHALLENGE\bin\Debug\SWITCH CHALLENGE.pdb
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\SWITCH CHALLENGE\obj\Debug\SWITCH CHALLENGE.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\SWITCH CHALLENGE\obj\Debug\SWITCH CHALLENGE.pdb
