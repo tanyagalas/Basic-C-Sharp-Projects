@@ -1,0 +1,7 @@
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppPart6\bin\Debug\ConsoleAppPart6.exe.config
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppPart6\bin\Debug\ConsoleAppPart6.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppPart6\bin\Debug\ConsoleAppPart6.pdb
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppPart6\obj\Debug\ConsoleAppPart6.csproj.AssemblyReference.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppPart6\obj\Debug\ConsoleAppPart6.csproj.CoreCompileInputs.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppPart6\obj\Debug\ConsoleAppPart6.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsoleAppPart6\obj\Debug\ConsoleAppPart6.pdb
