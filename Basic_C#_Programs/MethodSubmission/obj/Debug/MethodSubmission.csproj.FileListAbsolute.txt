@@ -1,0 +1,7 @@
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\bin\Debug\MethodSubmission.exe.config
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\bin\Debug\MethodSubmission.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\bin\Debug\MethodSubmission.pdb
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\obj\Debug\MethodSubmission.csproj.AssemblyReference.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\obj\Debug\MethodSubmission.csproj.CoreCompileInputs.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\obj\Debug\MethodSubmission.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\MethodSubmission\obj\Debug\MethodSubmission.pdb
