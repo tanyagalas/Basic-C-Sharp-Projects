@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OperatorsAssignment
 {
-    class Employee : Person, IQuittable
+    internal class Employee : Person, IQuittable
     {
         public int employeeID { get; set; }
 
