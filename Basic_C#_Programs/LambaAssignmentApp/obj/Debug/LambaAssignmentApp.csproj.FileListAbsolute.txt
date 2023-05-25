@@ -1,0 +1,7 @@
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\LambaAssignmentApp\bin\Debug\LambaAssignmentApp.exe.config
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\LambaAssignmentApp\bin\Debug\LambaAssignmentApp.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\LambaAssignmentApp\bin\Debug\LambaAssignmentApp.pdb
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\LambaAssignmentApp\obj\Debug\LambaAssignmentApp.csproj.AssemblyReference.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\LambaAssignmentApp\obj\Debug\LambaAssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\LambaAssignmentApp\obj\Debug\LambaAssignmentApp.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\LambaAssignmentApp\obj\Debug\LambaAssignmentApp.pdb
