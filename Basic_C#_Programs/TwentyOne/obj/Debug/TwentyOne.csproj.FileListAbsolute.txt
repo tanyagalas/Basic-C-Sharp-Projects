@@ -1,0 +1,2 @@
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
