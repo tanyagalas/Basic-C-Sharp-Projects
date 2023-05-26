@@ -131,5 +131,13 @@ namespace TwentyOne
 
             return Exceptions;
         }
+
+        private class ExceptionEntity
+        {
+            internal readonly string ExceptionType;
+            internal readonly string ExceptionMessage;
+            internal string id;
+            internal string TimeStamp;
+        }
     }
 }
