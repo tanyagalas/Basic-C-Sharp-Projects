@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D703805E-9AFD-45FA-952D-EE61FA76F91D}</ProjectGuid>
+    <ProjectGuid>{38F4BA41-844B-4CF5-959E-793AE9E704CF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwentyOne</RootNamespace>
-    <AssemblyName>TwentyOne</AssemblyName>
+    <RootNamespace>TryCatchAssign</RootNamespace>
+    <AssemblyName>TryCatchAssign</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,18 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FraudException.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Casino\Casino.csproj">
-      <Project>{350f891b-a932-4411-b46f-6e0cbceb3fbb}</Project>
-      <Name>Casino</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

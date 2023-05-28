@@ -2,7 +2,7 @@
 using System.Data.SqlClient;
 using System.Collections.Generic;
 
-namespace TwentyOne
+namespace Casino 
 {
     class Program
     {

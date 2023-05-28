@@ -1,0 +1,7 @@
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssign\obj\Debug\TryCatchAssign.csproj.AssemblyReference.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssign\obj\Debug\TryCatchAssign.csproj.CoreCompileInputs.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssign\bin\Debug\TryCatchAssign.exe.config
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssign\bin\Debug\TryCatchAssign.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssign\bin\Debug\TryCatchAssign.pdb
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssign\obj\Debug\TryCatchAssign.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\TryCatchAssign\obj\Debug\TryCatchAssign.pdb
