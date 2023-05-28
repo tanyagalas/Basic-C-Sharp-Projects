@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Data.SqlClient;
 using System.Collections.Generic;
-using Casino;
-using Casino.TwentyOne;
 
 namespace TwentyOne
 {

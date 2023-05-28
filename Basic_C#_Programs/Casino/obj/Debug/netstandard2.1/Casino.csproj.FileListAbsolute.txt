@@ -1,0 +1,5 @@
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\Casino\obj\Debug\netstandard2.1\Casino.csproj.AssemblyReference.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\Casino\obj\Debug\netstandard2.1\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\Casino\obj\Debug\netstandard2.1\Casino.AssemblyInfoInputs.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\Casino\obj\Debug\netstandard2.1\Casino.AssemblyInfo.cs
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\Casino\obj\Debug\netstandard2.1\Casino.csproj.CoreCompileInputs.cache
