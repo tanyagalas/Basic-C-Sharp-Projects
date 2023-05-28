@@ -1,0 +1,7 @@
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsttructorAssignment\bin\Debug\ConsttructorAssignment.exe.config
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsttructorAssignment\bin\Debug\ConsttructorAssignment.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsttructorAssignment\bin\Debug\ConsttructorAssignment.pdb
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsttructorAssignment\obj\Debug\ConsttructorAssignment.csproj.AssemblyReference.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsttructorAssignment\obj\Debug\ConsttructorAssignment.csproj.CoreCompileInputs.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsttructorAssignment\obj\Debug\ConsttructorAssignment.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Basic_C#_Programs\ConsttructorAssignment\obj\Debug\ConsttructorAssignment.pdb
