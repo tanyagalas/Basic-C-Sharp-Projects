@@ -29,7 +29,32 @@ namespace TechAcadStudentsMVC.Controllers
 
         public ActionResult Instructors()
         {
-            return View();
+            List<Models.Instructor> instructors = new List<Models.Instructor>
+            {
+                new Instructor
+                {
+                    Id = 1,
+                    FirstName = "Rick",
+                    LastName = "Ramen"
+                },
+                new Instructor
+                {
+                    Id = 1,
+                    FirstName = "Brett",
+                    LastName = "Calendar",
+                },
+                new Instructor
+                {
+                    Id = 1,
+                    FirstName = "Adam",
+                    LastName = "Smithsonian"
+                }
+            };
+
+            return View(instructors);
         }
     }
-}
+
+           
+
+      
