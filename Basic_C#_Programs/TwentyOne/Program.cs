@@ -1,11 +1,15 @@
 ﻿using System;
 using System.Data.SqlClient;
 using System.Collections.Generic;
+using Casino;
+using Casino.TwentyOne;
 
-namespace Casino 
+namespace TwentyOne
 {
     class Program
     {
+        public static global::System.Object Console { get; private set; }
+
         static void Main(string[] args)
         {
 
@@ -104,6 +108,7 @@ namespace Casino
                                         Integrated Security = True; Connect Timeout = 30; Encrypt = False;
                                         TrustServerCertificate = False; ApplicationIntent = ReadWrite;
                                         MultiSubnetFailover = False";
+            
             string queryString = @"Select Id, ExceptionType, ExceptionMessage, TimeStamp From Exceptions";
 
             List<ExceptionEntity> Exceptions = new List<ExceptionEntity>();
@@ -129,13 +134,30 @@ namespace Casino
 
             return Exceptions;
         }
-
-        private class ExceptionEntity
-        {
-            internal readonly string ExceptionType;
-            internal readonly string ExceptionMessage;
-            internal string id;
-            internal string TimeStamp;
-        }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
