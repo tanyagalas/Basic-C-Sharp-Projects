@@ -1,0 +1,16 @@
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\bin\Debug\net5.0\Scores.exe
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\bin\Debug\net5.0\Scores.deps.json
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\bin\Debug\net5.0\Scores.runtimeconfig.json
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\bin\Debug\net5.0\Scores.runtimeconfig.dev.json
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\bin\Debug\net5.0\Scores.dll
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\bin\Debug\net5.0\ref\Scores.dll
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\bin\Debug\net5.0\Scores.pdb
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\obj\Debug\net5.0\Scores.csproj.AssemblyReference.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\obj\Debug\net5.0\Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\obj\Debug\net5.0\Scores.AssemblyInfoInputs.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\obj\Debug\net5.0\Scores.AssemblyInfo.cs
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\obj\Debug\net5.0\Scores.csproj.CoreCompileInputs.cache
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\obj\Debug\net5.0\Scores.dll
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\obj\Debug\net5.0\ref\Scores.dll
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\obj\Debug\net5.0\Scores.pdb
+C:\Users\tanya\Desktop\Basic-C-Sharp-Projects\Scores\obj\Debug\net5.0\Scores.genruntimeconfig.cache
