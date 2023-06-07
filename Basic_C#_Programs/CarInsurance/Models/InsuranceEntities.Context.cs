@@ -13,10 +13,10 @@ namespace CarInsurance.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class InsuranceEntities1 : DbContext
+    public partial class InsuranceEntities3 : DbContext
     {
-        public InsuranceEntities1()
-            : base("name=InsuranceEntities1")
+        public InsuranceEntities3()
+            : base("name=InsuranceEntities3")
         {
         }
     
@@ -26,6 +26,5 @@ namespace CarInsurance.Models
         }
     
         public virtual DbSet<Insuree> Insurees { get; set; }
-        public virtual DbSet<Table> Tables { get; set; }
     }
 }

@@ -128,6 +128,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\InsureeController.cs" />
     <Compile Include="Global.asax.cs">
@@ -151,10 +152,8 @@
     <Compile Include="Models\Insuree.cs">
       <DependentUpon>InsuranceEntities.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\Table.cs">
-      <DependentUpon>InsuranceEntities.tt</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\SignupVm.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Data\Insurance.mdf" />
@@ -181,6 +180,7 @@
     </Content>
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include=".editorconfig" />
     <EntityDeploy Include="Models\InsuranceEntities.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>InsuranceEntities.Designer.cs</LastGenOutput>
@@ -188,7 +188,6 @@
     <Content Include="Models\InsuranceEntities.edmx.diagram">
       <DependentUpon>InsuranceEntities.edmx</DependentUpon>
     </Content>
-    <Content Include=".editorconfig" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />

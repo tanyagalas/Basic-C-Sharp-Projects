@@ -14,8 +14,6 @@ namespace CarInsurance.Models
     
     public partial class Insuree
     {
-        internal readonly bool FullCoverage;
-
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
