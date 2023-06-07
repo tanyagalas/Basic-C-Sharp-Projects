@@ -67,15 +67,15 @@ namespace CarInsurance.Controllers
 
             insuree.Quote = 50.0m;
 
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year < 18)
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year <= 18)
             {
                 insuree.Quote += 100;
             }
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year > 18 && DateTime.Now.Year - insuree.DateOfBirth.Year < 25)
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year > 18 && DateTime.Now.Year - insuree.DateOfBirth.Year <= 25)
             {
                 insuree.Quote += 25;
             }
-            if (DateTime.Now.Year - insuree.DateOfBirth.Year > 100)
+            if (DateTime.Now.Year - insuree.DateOfBirth.Year >= 26)
             {
                 insuree.Quote += 25;
             }
