@@ -57,7 +57,7 @@ namespace CarInsurance.Controllers
                 insuree.Quote = CalculateQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
-                return RedirectToAction("Admin");
+                return RedirectToAction("Index");
             }
 
             return View(insuree);

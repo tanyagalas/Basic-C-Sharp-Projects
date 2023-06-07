@@ -12,7 +12,7 @@ namespace CarInsurance.Controllers
     {
         public ActionResult Index()
         {
-            using (InsuranceEntities1 db = new InsuranceEntities1())
+            using (InsuranceEntities3 db = new InsuranceEntities3())
             {
                 var signups = db.Insurees;
                 var signupVms = new List<SignupVm>();
